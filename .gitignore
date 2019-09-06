@@ -1,0 +1,5 @@
+config/deploy.yml
+node_modules/*
+log/*
+public/javascripts/bundle.js
+public/stylesheets/bundle.css

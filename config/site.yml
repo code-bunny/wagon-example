@@ -1,0 +1,12 @@
+name: YoYo Games
+locales: [en]
+domains: [nextstep.yoyogames.com]
+timezone: UTC
+seo_title: NextStep YoYo Games
+meta_keywords: "some meta keywords"
+meta_description: "some meta description"
+robots_txt: ''
+asset_host: ''
+metafields: 
+metafields_ui: {}
+sections_content: 
